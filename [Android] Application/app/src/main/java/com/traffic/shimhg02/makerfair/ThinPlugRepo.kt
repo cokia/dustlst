@@ -9,7 +9,7 @@ import com.google.gson.annotations.SerializedName
 
 class ThinPlugRepo {
     @SerializedName("username")
-    var username = "hwymaster01"
+    var username = "username"
     @SerializedName("password")
-    var password = "!Hjww0904"
+    var password = "Credential"
 }
